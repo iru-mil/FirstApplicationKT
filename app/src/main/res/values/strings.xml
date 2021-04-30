@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FirstApplicationKT</string>
+    <string name="test_app">Тестовое приложение</string>
+    <string name="button">Кнопка</string>
+    <string name="message">Кнопка работает</string>
+
 </resources>
